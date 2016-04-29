@@ -7,4 +7,4 @@ Npm need to install
 
 Set the path for files to beautify
 
-**dirName = "/home/ubuntu/dev" **  //Like this set the path
+**dirName = "/home/ubuntu/dev"**  
