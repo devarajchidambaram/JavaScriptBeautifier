@@ -2,7 +2,7 @@ var beautify = require('js-beautify').js_beautify,
   fs = require('fs');
 
 //Set the folder path to beautify
-var dirName = "/home/guidanz-devaraj/git_newskedler/skedler/skedler/src/test";
+var dirName = "/home/ubuntu/dev";
 
 
 function beautifier(fileName) {
